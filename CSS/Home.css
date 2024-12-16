@@ -12,7 +12,7 @@ header {
 
 /* Style pour le corps de la page */
 body {
-    background-image: url('/Image/Fond.jpg'); /* Image de fond */
+    background-image: url('Image/Fond.jpg'); /* Image de fond */
     background-size: cover; /* Couvre tout l'espace disponible */
     background-position: center; /* Centre l'image de fond */
     background-repeat: no-repeat; /* Ne répète pas l'image */
